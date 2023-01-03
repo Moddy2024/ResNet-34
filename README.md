@@ -15,7 +15,7 @@ Once you have these dependencies installed, you can clone the Custom ResNet-18 r
 ```
 # Key Files
 # Features
-This custom ResNet-18 includes the following features:
+This custom ResNet-34 includes the following features:
 
 * Support for multiple image sizes and aspect ratios
 * Option to fine-tune the model on a specific dataset
