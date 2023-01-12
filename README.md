@@ -9,6 +9,7 @@ ResNet-34 is a deep convolutional neural network trained on the CIFAR-10 dataset
 * [fast.ai](https://www.fast.ai/)
 * [Torchvision](https://pytorch.org/vision/stable/index.html)
 * [torchinfo](https://github.com/TylerYep/torchinfo)
+
 Once you have these dependencies installed, you can clone the Custom ResNet-34 repository from GitHub:
 ```bash
  https://github.com/Moddy2024/ResNet-34.git
